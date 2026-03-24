@@ -1,0 +1,1 @@
+See outputs/ai-powered-customer-onboarding-portal/testing/defect-log.md for defect details.

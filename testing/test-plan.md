@@ -1,0 +1,1 @@
+See outputs/ai-powered-customer-onboarding-portal/testing/test-plan.md for the full test plan with 169 test cases across 28 user stories.
